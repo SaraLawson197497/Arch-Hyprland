@@ -674,3 +674,5 @@ Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 <!-- Auto-update: 2025-10-14T11:59:38.779568 -->
+
+<!-- Auto-update: 2025-10-16T13:15:57.603556 -->
